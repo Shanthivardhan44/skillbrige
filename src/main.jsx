@@ -1,0 +1,1 @@
+import React from 'react';import{createRoot}from'react-dom/client';import SkillBridgeRouter from './router.jsx';import './style.css';import './enhancements.css';import './application.css';createRoot(document.getElementById('root')).render(<React.StrictMode><SkillBridgeRouter/></React.StrictMode>);

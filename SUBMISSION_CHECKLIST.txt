@@ -1,0 +1,27 @@
+SKILLBRIDGE — TASK 3 SUBMISSION
+
+QUALITY CHECKS
+[ ] Run npm test and npm run build.
+[ ] Run npm run db:setup (and optionally npm run db:seed) against the deployment MongoDB database.
+[ ] Configure VITE_API_BASE_URL, FRONTEND_ORIGINS, secure session settings, and unique secrets.
+[ ] Test registration, sign-in, session persistence, logout, saved content, enrollment, and lesson progress on the deployed domains.
+[ ] Create an administrator through a trusted database operation and verify student/admin authorization.
+[ ] Verify mobile and desktop navigation, forms, keyboard focus, and route fallback.
+[ ] Confirm illustrative courses/opportunities are labeled and no vacancy is presented as verified.
+
+SCREENSHOT CHECKLIST
+[ ] Desktop landing page.
+[ ] Mobile landing page (320–375 px) with navigation menu open and closed.
+[ ] Course catalog with a search/filter result.
+[ ] Course details and a lesson-progress state.
+[ ] Career assessment and recommendations with the educational disclaimer.
+[ ] AI guidance answer with its AI or demo label.
+[ ] Dashboard with account-synced or device-local data clearly labeled.
+[ ] Opportunity catalog/detail warning and application tracker.
+[ ] Registration/sign-in validation state (use dummy information only).
+[ ] Administrator access-denied state and, if available, the authorized admin dashboard.
+
+SUBMISSION
+[ ] Deploy the frontend to Vercel or Netlify and record the public URL.
+[ ] Save screenshots, public URL, README, and source archive to the internship submission folder.
+[ ] Publish the project link on LinkedIn, tag InAmigos Foundation, and save a screenshot of the post.
